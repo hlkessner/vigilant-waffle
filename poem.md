@@ -1,6 +1,8 @@
-In visions of the dark night
+#A Dream
+
+In visions of the **dark night**
 I have dreamed of joy departed 
-But a waking dream of life and light
+But a waking dream of *life and light*
 Hath left me broken-hearted.
 
 Ah! what is not a dream by day
@@ -18,5 +20,5 @@ So trembled from afar
 What could there be more purely bright
 In Truth's day star?
 
---Edgar Allen Poe 
+--*Edgar Allen Poe* 
 http://www.public-domain-poetry.com/edgar-allan-poe/dream-1752
